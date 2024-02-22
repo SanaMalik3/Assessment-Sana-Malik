@@ -1,0 +1,12 @@
+,Django,Flask
+0,"Django could be a Python-based free, open-source system that takes after the MVT(model view Template) approach of structural design",Flask could be a Python-based smaller-scale system without any set of specific instruments or outside libraries. It too doesn’t have a database layer or arrangements for shape approval and makes utilize of expansions.
+1,Urls.py is utilized to set the association properties and demands are handled by the primary coordinating see of the regex list,"URI is most regularly than not set by the see decorator and centralized setup is additionally conceivable. Sometimes the recent designs are coordinated with the URIs, and the last mentioned is sorted in a default arrange"
+2,Doesn’t exclude setting flexibility,It is accepted that all the conceptual stages to organize a Flask code rise and smaller-scale open-source to the applications number show in Flask as of now
+3,Extend Layout is a Conventional extended structure,Extend Layout is an Arbitrary structure
+4,"Django gives an all-inclusive encounter: you get an admin board, database interfacing, an ORM, and a registry structure for your apps and ventures out of the box.","Flask gives straightforwardness, adaptability, and fine-grained control. It is unopinionated"
+5,"Django provides built-in authentication and authorization systems, making it easier to implement user management and access control.",Flask leaves authentication and authorization to the developer. You can use third-party libraries like Flask-Login and Flask-Principal for these functionalities.
+6,It is suitable for multi-page applications.,It is suitable for single-page applications only.
+7,Its framework structure is more conventional.,Random web framework structure.
+8,"Django has a large and active community, which means access to extensive documentation, tutorials, and third-party packages. It is widely used in various industries.","Flask also has a thriving community, but it may have fewer resources compared to Django. Flask’s simplicity attracts developers who prefer to keep their stack minimal."
+9,It doesn’t support any virtual debugging.,It has a built-in debugger that provides virtual debugging.
+10,Its working style is Monolithic.,Its working style is diversified style.
